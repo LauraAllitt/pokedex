@@ -209,7 +209,7 @@ button:hover {
     flex-direction: column;
   }
   .popup .title {
-    padding-bottom: 50px;
+    margin-bottom: 50px;
   }
 
   button {
